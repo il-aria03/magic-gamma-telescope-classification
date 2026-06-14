@@ -4,7 +4,7 @@
 
 This project is a **comparative study of six supervised machine learning algorithms** applied to the binary classification problem of distinguishing gamma-ray events from hadronic background noise in data recorded by atmospheric Cherenkov telescopes.
 
-The work was developed as an assignment for the **Machine Learning** course — Engineering in Computer Science and Artificial Intelligence, Sapienza University of Rome (A.Y. 2024/2025).
+The work was developed as an assignment for the **Machine Learning** course — Engineering in Computer Science and Artificial Intelligence, Sapienza University of Rome (A.Y. 2025/2026).
 
 ---
 
